@@ -1,0 +1,14 @@
+ollama
+transformers
+datasets
+torch
+torchvision
+torchaudio
+faiss-cpu
+langchain 
+langchain-core 
+langchain-community
+chromadb
+gradio
+pandas
+sentence-transformers
